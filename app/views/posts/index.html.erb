@@ -1,22 +1,23 @@
 <h1>Listing posts</h1>
-<%= link_to 'New post', new_post_path %>
-<table border ="1">
+<button class="btn btn-large btn-info"><%= link_to 'New post', new_post_path %></button>
+<hr></hr>
+<table class= "table table-striped">
   <tr>
     <th>Title</th>
     <th>Text</th>
-    <th></th>
-    <th></th>
-    <th></th>
+    <th>Action</th>
+    <th>Action</th>
+    <th>Action</th>
   </tr>
  
   <% @posts.each do |post| %>
     <tr>
       <td><%= post.title %></td>
       <td><%= post.text %></td>
-      <td><%= link_to 'Show', post %></td>
-    <td><%= link_to 'Edit', edit_post_path(post) %></td>
-    <td><%= link_to 'Destroy', post_path(post),
-                    method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      <td><button class="btn btn-success"><%= link_to 'Show', post %></td></buton>
+    <td><button class="btn btn-info"><%= link_to 'Edit', edit_post_path(post) %></td></button>
+    <td><button class="btn btn-danger"><%= link_to 'Destroy', post_path(post),
+                    method: :delete, data: { confirm: 'Are you sure?' } %></td></button>
     </tr>
   <% end %>
 </table>

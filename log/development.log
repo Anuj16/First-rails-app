@@ -34543,3 +34543,4360 @@ Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-11 20:45:09 +0530
 
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-11 20:45:09 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-12 23:09:57 +0530
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 185ms (Views: 156.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-12 23:09:57 +0530
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2013-09-12 23:09:57 +0530
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-09-12 23:09:57 +0530
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2013-09-12 23:09:57 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-12 23:09:57 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-12 23:09:57 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-12 23:09:57 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-12 23:09:57 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-12 23:09:57 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-12 23:09:57 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-12 23:09:57 +0530
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-12 23:10:00 +0530
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.2ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (46.0ms)
+Completed 200 OK in 69ms (Views: 51.4ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-12 23:10:22 +0530
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.4ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (10.7ms)
+Completed 200 OK in 17ms (Views: 15.9ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-12 23:10:22 +0530
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2013-09-12 23:10:22 +0530
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-09-12 23:10:22 +0530
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2013-09-12 23:10:22 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-12 23:10:22 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-12 23:10:22 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-12 23:10:22 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-12 23:10:22 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-12 23:10:22 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-12 23:10:22 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-12 23:10:22 +0530
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-12 23:10:25 +0530
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.4ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (35.9ms)
+Completed 200 OK in 42ms (Views: 41.1ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-12 23:10:25 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-12 23:10:25 +0530
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-09-12 23:10:25 +0530
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2013-09-12 23:10:25 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-12 23:10:25 +0530
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2013-09-12 23:10:25 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-12 23:10:25 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-12 23:10:25 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-12 23:10:25 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-12 23:10:25 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-12 23:10:25 +0530
+
+
+Started GET "/posts/new" for 127.0.0.1 at 2013-09-12 23:10:27 +0530
+Processing by PostsController#new as HTML
+  Rendered posts/_form.html.erb (57.2ms)
+  Rendered posts/new.html.erb within layouts/application (77.1ms)
+Completed 200 OK in 83ms (Views: 82.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/posts" for 127.0.0.1 at 2013-09-12 23:10:29 +0530
+Processing by PostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"V4nqQkiiZmH6W3PCu/JiIELXjJHsccQoj1dG8kg3Ysg=", "post"=>{"title"=>"", "text"=>""}, "commit"=>"Create Post"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  Rendered posts/_form.html.erb (29.8ms)
+  Rendered posts/new.html.erb within layouts/application (31.3ms)
+Completed 200 OK in 42ms (Views: 36.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-12 23:10:29 +0530
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2013-09-12 23:10:29 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-12 23:10:29 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-12 23:10:29 +0530
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-09-12 23:10:29 +0530
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2013-09-12 23:10:29 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-12 23:10:29 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-12 23:10:29 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-12 23:10:29 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-12 23:10:29 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-12 23:10:29 +0530
+
+
+Started POST "/posts" for 127.0.0.1 at 2013-09-12 23:10:48 +0530
+Processing by PostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"V4nqQkiiZmH6W3PCu/JiIELXjJHsccQoj1dG8kg3Ysg=", "post"=>{"title"=>"clare", "text"=>"moti hai"}, "commit"=>"Create Post"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (84.7ms)[0m  INSERT INTO "posts" ("created_at", "text", "title", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Thu, 12 Sep 2013 17:40:48 UTC +00:00], ["text", "moti hai"], ["title", "clare"], ["updated_at", Thu, 12 Sep 2013 17:40:48 UTC +00:00]]
+  [1m[36m (192.6ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/posts/39
+Completed 302 Found in 282ms (ActiveRecord: 277.3ms)
+
+
+Started GET "/posts/39" for 127.0.0.1 at 2013-09-12 23:10:49 +0530
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"39"}
+  [1m[35mPost Load (0.3ms)[0m  SELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", "39"]]
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?[0m  [["post_id", 39]]
+  Rendered posts/show.html.erb within layouts/application (94.0ms)
+Completed 200 OK in 118ms (Views: 115.0ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-12 23:10:49 +0530
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2013-09-12 23:10:49 +0530
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-09-12 23:10:49 +0530
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2013-09-12 23:10:49 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-12 23:10:49 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-12 23:10:49 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-12 23:10:49 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-12 23:10:49 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-12 23:10:49 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-12 23:10:49 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-12 23:10:49 +0530
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-12 23:10:52 +0530
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.3ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (10.4ms)
+Completed 200 OK in 17ms (Views: 16.1ms | ActiveRecord: 0.3ms)
+
+
+Started DELETE "/posts/39" for 127.0.0.1 at 2013-09-12 23:11:32 +0530
+Processing by PostsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"V4nqQkiiZmH6W3PCu/JiIELXjJHsccQoj1dG8kg3Ysg=", "id"=>"39"}
+  [1m[36mPost Load (0.2ms)[0m  [1mSELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1[0m  [["id", "39"]]
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.3ms)[0m  [1mDELETE FROM "posts" WHERE "posts"."id" = ?[0m  [["id", 39]]
+  [1m[35m (139.9ms)[0m  commit transaction
+Redirected to http://localhost:3000/posts
+Completed 302 Found in 144ms (ActiveRecord: 140.4ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-12 23:11:32 +0530
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.3ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (10.0ms)
+Completed 200 OK in 16ms (Views: 15.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-12 23:11:32 +0530
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2013-09-12 23:11:32 +0530
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-09-12 23:11:32 +0530
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2013-09-12 23:11:32 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-12 23:11:32 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-12 23:11:32 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-12 23:11:32 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-12 23:11:32 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-12 23:11:32 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-12 23:11:32 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-12 23:11:32 +0530
+
+
+Started DELETE "/posts/29" for 127.0.0.1 at 2013-09-12 23:11:35 +0530
+Processing by PostsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"V4nqQkiiZmH6W3PCu/JiIELXjJHsccQoj1dG8kg3Ysg=", "id"=>"29"}
+  [1m[35mPost Load (0.2ms)[0m  SELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", "29"]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.2ms)[0m  DELETE FROM "posts" WHERE "posts"."id" = ?  [["id", 29]]
+  [1m[36m (140.3ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/posts
+Completed 302 Found in 147ms (ActiveRecord: 140.8ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-12 23:11:35 +0530
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.3ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (34.9ms)
+Completed 200 OK in 41ms (Views: 40.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-12 23:11:35 +0530
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2013-09-12 23:11:35 +0530
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-09-12 23:11:35 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-12 23:11:35 +0530
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2013-09-12 23:11:35 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-12 23:11:35 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-12 23:11:35 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-12 23:11:35 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-12 23:11:35 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-12 23:11:35 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-12 23:11:35 +0530
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-12 23:18:01 +0530
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.6ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (14.1ms)
+Completed 500 Internal Server Error in 67ms
+
+ActionView::Template::Error (cannot load such file -- less
+  (in /home/shivaratna/First-rails-app/app/assets/stylesheets/bootstrap_and_overrides.css.less)):
+    2: <html>
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___872161731_77568730'
+
+
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (15.3ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-12 23:18:03 +0530
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.4ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (11.0ms)
+Completed 500 Internal Server Error in 25ms
+
+ActionView::Template::Error (cannot load such file -- less
+  (in /home/shivaratna/First-rails-app/app/assets/stylesheets/bootstrap_and_overrides.css.less)):
+    2: <html>
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___872161731_77568730'
+
+
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.6ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (12.7ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-12 23:20:17 +0530
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.4ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (10.4ms)
+Completed 500 Internal Server Error in 55ms
+
+ActionView::Template::Error (cannot load such file -- less
+  (in /home/shivaratna/First-rails-app/app/assets/stylesheets/bootstrap_and_overrides.css.less)):
+    2: <html>
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___872161731_77568730'
+
+
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.3ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (12.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-12 23:20:20 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.8ms)
+Completed 500 Internal Server Error in 14ms
+
+ActionView::Template::Error (cannot load such file -- less
+  (in /home/shivaratna/First-rails-app/app/assets/stylesheets/bootstrap_and_overrides.css.less)):
+    2: <html>
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___872161731_77568730'
+
+
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.6ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (34.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-12 23:33:11 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 100ms (Views: 99.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-12 23:33:11 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-12 23:33:11 +0530
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-12 23:33:13 +0530
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.3ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (8.9ms)
+Completed 200 OK in 35ms (Views: 34.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/posts/new" for 127.0.0.1 at 2013-09-12 23:33:19 +0530
+Processing by PostsController#new as HTML
+  Rendered posts/_form.html.erb (3.0ms)
+  Rendered posts/new.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 8ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-12 23:33:19 +0530
+
+
+Started POST "/posts" for 127.0.0.1 at 2013-09-12 23:33:22 +0530
+Processing by PostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"V4nqQkiiZmH6W3PCu/JiIELXjJHsccQoj1dG8kg3Ysg=", "post"=>{"title"=>"", "text"=>""}, "commit"=>"Create Post"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  Rendered posts/_form.html.erb (34.6ms)
+  Rendered posts/new.html.erb within layouts/application (35.5ms)
+Completed 200 OK in 43ms (Views: 37.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-12 23:33:22 +0530
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-12 23:33:24 +0530
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.4ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (9.2ms)
+Completed 200 OK in 13ms (Views: 11.5ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-12 23:33:24 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-12 23:33:24 +0530
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-12 23:33:42 +0530
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.2ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (25.3ms)
+Completed 200 OK in 61ms (Views: 35.6ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-12 23:33:42 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-12 23:33:42 +0530
+
+
+Started GET "/posts/new" for 127.0.0.1 at 2013-09-12 23:33:44 +0530
+Processing by PostsController#new as HTML
+  Rendered posts/_form.html.erb (35.4ms)
+  Rendered posts/new.html.erb within layouts/application (38.5ms)
+Completed 200 OK in 43ms (Views: 41.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-12 23:33:44 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-12 23:33:44 +0530
+
+
+Started GET "/posts/new" for 127.0.0.1 at 2013-09-12 23:34:23 +0530
+Processing by PostsController#new as HTML
+  Rendered posts/_form.html.erb (3.8ms)
+  Rendered posts/new.html.erb within layouts/application (5.5ms)
+Completed 200 OK in 10ms (Views: 8.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-12 23:34:23 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-12 23:34:23 +0530
+
+
+Started POST "/posts" for 127.0.0.1 at 2013-09-12 23:34:33 +0530
+Processing by PostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"V4nqQkiiZmH6W3PCu/JiIELXjJHsccQoj1dG8kg3Ysg=", "post"=>{"title"=>"akash", "text"=>"fhgsxgf"}, "commit"=>"Create Post"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (2.9ms)[0m  INSERT INTO "posts" ("created_at", "text", "title", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Thu, 12 Sep 2013 18:04:33 UTC +00:00], ["text", "fhgsxgf"], ["title", "akash"], ["updated_at", Thu, 12 Sep 2013 18:04:33 UTC +00:00]]
+  [1m[36m (279.0ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/posts/40
+Completed 302 Found in 288ms (ActiveRecord: 282.0ms)
+
+
+Started GET "/posts/40" for 127.0.0.1 at 2013-09-12 23:34:33 +0530
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"40"}
+  [1m[35mPost Load (0.3ms)[0m  SELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", "40"]]
+  [1m[36mComment Load (0.1ms)[0m  [1mSELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?[0m  [["post_id", 40]]
+  Rendered posts/show.html.erb within layouts/application (66.3ms)
+Completed 200 OK in 71ms (Views: 68.4ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-12 23:34:33 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-12 23:34:33 +0530
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-12 23:34:37 +0530
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.3ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (10.1ms)
+Completed 200 OK in 14ms (Views: 12.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-12 23:34:39 +0530
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.4ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (9.5ms)
+Completed 200 OK in 13ms (Views: 12.0ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-12 23:34:39 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-12 23:34:39 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-12 23:34:42 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 7ms (Views: 5.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-12 23:34:42 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-12 23:34:42 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-12 23:37:50 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-12 23:37:50 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-12 23:37:50 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-12 23:37:51 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-12 23:37:51 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-12 23:37:51 +0530
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-12 23:37:52 +0530
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.5ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (10.3ms)
+Completed 200 OK in 14ms (Views: 12.6ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-12 23:37:52 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-12 23:37:52 +0530
+
+
+Started GET "/posts/21" for 127.0.0.1 at 2013-09-12 23:39:22 +0530
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"21"}
+  [1m[36mPost Load (0.1ms)[0m  [1mSELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1[0m  [["id", "21"]]
+  [1m[35mComment Load (0.2ms)[0m  SELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?  [["post_id", 21]]
+  Rendered posts/show.html.erb within layouts/application (4.9ms)
+Completed 200 OK in 10ms (Views: 7.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-12 23:39:22 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-12 23:39:22 +0530
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-12 23:47:29 +0530
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.3ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (9.4ms)
+Completed 500 Internal Server Error in 19ms
+
+ActionView::Template::Error (cannot load such file -- less
+  (in /home/shivaratna/First-rails-app/app/assets/stylesheets/bootstrap_and_overrides.css.less)):
+    2: <html>
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___930818851_83981770'
+
+
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (27.9ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (39.0ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-12 23:48:46 +0530
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.3ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (9.4ms)
+Completed 500 Internal Server Error in 18ms
+
+ActionView::Template::Error (cannot load such file -- less
+  (in /home/shivaratna/First-rails-app/app/assets/stylesheets/bootstrap_and_overrides.css.less)):
+    2: <html>
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___930818851_83981770'
+
+
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (12.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-12 23:48:49 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.7ms)
+Completed 500 Internal Server Error in 11ms
+
+ActionView::Template::Error (cannot load such file -- less
+  (in /home/shivaratna/First-rails-app/app/assets/stylesheets/bootstrap_and_overrides.css.less)):
+    2: <html>
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___930818851_83981770'
+
+
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.6ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (12.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-12 23:53:16 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.8ms)
+Completed 500 Internal Server Error in 55ms
+
+ActionView::Template::Error (File to import not found or unreadable: bootstrap.
+Load paths:
+  /home/shivaratna/First-rails-app/app/assets/images
+  /home/shivaratna/First-rails-app/app/assets/javascripts
+  /home/shivaratna/First-rails-app/app/assets/stylesheets
+  /home/shivaratna/First-rails-app/vendor/assets/javascripts
+  /home/shivaratna/First-rails-app/vendor/assets/stylesheets
+  /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/turbolinks-1.3.0/lib/assets/javascripts
+  /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/jquery-rails-3.0.4/vendor/assets/javascripts
+  /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/coffee-rails-4.0.0/lib/assets/javascripts
+  (in /home/shivaratna/First-rails-app/app/assets/stylesheets/anuj.css.scss:1)):
+    2: <html>
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/anuj.css.scss:1
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___930818851_83981770'
+
+
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.6ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (12.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-12 23:55:24 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.7ms)
+Completed 500 Internal Server Error in 17ms
+
+ActionView::Template::Error (File to import not found or unreadable: bootstrap.
+Load paths:
+  /home/shivaratna/First-rails-app/app/assets/images
+  /home/shivaratna/First-rails-app/app/assets/javascripts
+  /home/shivaratna/First-rails-app/app/assets/stylesheets
+  /home/shivaratna/First-rails-app/vendor/assets/javascripts
+  /home/shivaratna/First-rails-app/vendor/assets/stylesheets
+  /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/turbolinks-1.3.0/lib/assets/javascripts
+  /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/jquery-rails-3.0.4/vendor/assets/javascripts
+  /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/coffee-rails-4.0.0/lib/assets/javascripts
+  (in /home/shivaratna/First-rails-app/app/assets/stylesheets/anuj.css.scss:1)):
+    2: <html>
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/anuj.css.scss:1
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___930818851_83981770'
+
+
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.6ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (13.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-12 23:56:11 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.8ms)
+Completed 500 Internal Server Error in 28ms
+
+ActionView::Template::Error (couldn't find file 'twitter/bootstrap'
+  (in /home/shivaratna/First-rails-app/app/assets/javascripts/application.js:15)):
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+    9: <body>
+  app/views/layouts/application.html.erb:6:in `_app_views_layouts_application_html_erb___930818851_83981770'
+
+
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (22.4ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (33.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-12 23:56:12 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 500 Internal Server Error in 12ms
+
+ActionView::Template::Error (couldn't find file 'twitter/bootstrap'
+  (in /home/shivaratna/First-rails-app/app/assets/javascripts/application.js:15)):
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+    9: <body>
+  app/views/layouts/application.html.erb:6:in `_app_views_layouts_application_html_erb___930818851_83981770'
+
+
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.6ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (12.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-12 23:57:56 +0530
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (2.0ms)
+Completed 500 Internal Server Error in 100ms
+
+ActionView::Template::Error (couldn't find file 'twitter/bootstrap'
+  (in /home/shivaratna/First-rails-app/app/assets/javascripts/application.js:15)):
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+    9: <body>
+  app/views/layouts/application.html.erb:6:in `_app_views_layouts_application_html_erb__826425451__618834818'
+
+
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (12.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-12 23:58:41 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 12ms
+
+ActionView::Template::Error (couldn't find file 'twitter/bootstrap'
+  (in /home/shivaratna/First-rails-app/app/assets/javascripts/application.js:15)):
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+    9: <body>
+  app/views/layouts/application.html.erb:6:in `_app_views_layouts_application_html_erb__826425451__618834818'
+
+
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.5ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (13.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-13 00:02:59 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 500 Internal Server Error in 17ms
+
+ActionView::Template::Error (couldn't find file 'twitter/bootstrap'
+  (in /home/shivaratna/First-rails-app/app/assets/javascripts/application.js:1)):
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+    9: <body>
+  app/views/layouts/application.html.erb:6:in `_app_views_layouts_application_html_erb__826425451__618834818'
+
+
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (13.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-13 00:05:36 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.7ms)
+Completed 500 Internal Server Error in 12ms
+
+ActionView::Template::Error (couldn't find file 'twitter/bootstrap'
+  (in /home/shivaratna/First-rails-app/app/assets/javascripts/application.js:1)):
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+    9: <body>
+  app/views/layouts/application.html.erb:6:in `_app_views_layouts_application_html_erb__826425451__618834818'
+
+
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.1ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (13.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-13 00:05:37 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 10ms
+
+ActionView::Template::Error (couldn't find file 'twitter/bootstrap'
+  (in /home/shivaratna/First-rails-app/app/assets/javascripts/application.js:1)):
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+    9: <body>
+  app/views/layouts/application.html.erb:6:in `_app_views_layouts_application_html_erb__826425451__618834818'
+
+
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.6ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (26.5ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (37.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-13 00:05:38 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.7ms)
+Completed 500 Internal Server Error in 11ms
+
+ActionView::Template::Error (couldn't find file 'twitter/bootstrap'
+  (in /home/shivaratna/First-rails-app/app/assets/javascripts/application.js:1)):
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+    9: <body>
+  app/views/layouts/application.html.erb:6:in `_app_views_layouts_application_html_erb__826425451__618834818'
+
+
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (12.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-13 00:05:38 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.7ms)
+Completed 500 Internal Server Error in 11ms
+
+ActionView::Template::Error (couldn't find file 'twitter/bootstrap'
+  (in /home/shivaratna/First-rails-app/app/assets/javascripts/application.js:1)):
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+    9: <body>
+  app/views/layouts/application.html.erb:6:in `_app_views_layouts_application_html_erb__826425451__618834818'
+
+
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (20.4ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (31.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-13 00:05:38 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (couldn't find file 'twitter/bootstrap'
+  (in /home/shivaratna/First-rails-app/app/assets/javascripts/application.js:1)):
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+    9: <body>
+  app/views/layouts/application.html.erb:6:in `_app_views_layouts_application_html_erb__826425451__618834818'
+
+
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (12.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-13 00:05:38 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 11ms
+
+ActionView::Template::Error (couldn't find file 'twitter/bootstrap'
+  (in /home/shivaratna/First-rails-app/app/assets/javascripts/application.js:1)):
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+    9: <body>
+  app/views/layouts/application.html.erb:6:in `_app_views_layouts_application_html_erb__826425451__618834818'
+
+
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (23.1ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (35.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-13 00:05:38 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.8ms)
+Completed 500 Internal Server Error in 10ms
+
+ActionView::Template::Error (couldn't find file 'twitter/bootstrap'
+  (in /home/shivaratna/First-rails-app/app/assets/javascripts/application.js:1)):
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+    9: <body>
+  app/views/layouts/application.html.erb:6:in `_app_views_layouts_application_html_erb__826425451__618834818'
+
+
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (12.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-13 00:05:40 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 11ms
+
+ActionView::Template::Error (couldn't find file 'twitter/bootstrap'
+  (in /home/shivaratna/First-rails-app/app/assets/javascripts/application.js:1)):
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+    9: <body>
+  app/views/layouts/application.html.erb:6:in `_app_views_layouts_application_html_erb__826425451__618834818'
+
+
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (12.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-13 00:05:53 +0530
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 617ms (Views: 595.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-13 00:05:54 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 10ms (Views: 9.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:54 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:54 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:54 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:05:54 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:54 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:54 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:54 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:54 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:54 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:54 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:54 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:54 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:54 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:54 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:54 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:54 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:54 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:54 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:54 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:54 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:54 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:54 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:54 +0530
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-13 00:05:55 +0530
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.2ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (25.0ms)
+Completed 200 OK in 39ms (Views: 33.5ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-13 00:05:58 +0530
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.5ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (12.0ms)
+Completed 200 OK in 23ms (Views: 21.2ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:05:58 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:58 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:58 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:58 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:58 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:58 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:58 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:58 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:58 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:58 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:58 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:58 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:58 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:58 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:58 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:58 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:58 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:58 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:58 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:58 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:58 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:58 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:05:58 +0530
+
+
+Started GET "/posts/new" for 127.0.0.1 at 2013-09-13 00:05:59 +0530
+Processing by PostsController#new as HTML
+  Rendered posts/_form.html.erb (38.3ms)
+  Rendered posts/new.html.erb within layouts/application (41.7ms)
+Completed 200 OK in 52ms (Views: 50.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/posts" for 127.0.0.1 at 2013-09-13 00:06:01 +0530
+Processing by PostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"V4nqQkiiZmH6W3PCu/JiIELXjJHsccQoj1dG8kg3Ysg=", "post"=>{"title"=>"", "text"=>""}, "commit"=>"Create Post"}
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  Rendered posts/_form.html.erb (5.9ms)
+  Rendered posts/new.html.erb within layouts/application (7.4ms)
+Completed 200 OK in 21ms (Views: 16.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:01 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:06:01 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:01 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:01 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:01 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:01 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:01 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:01 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:01 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:01 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:01 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:01 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:01 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:01 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:01 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:01 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:01 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:01 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:01 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:01 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:01 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:01 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:01 +0530
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-13 00:06:02 +0530
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.5ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (9.9ms)
+Completed 200 OK in 21ms (Views: 19.6ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:06:02 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:02 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:02 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:02 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:02 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:02 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:02 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:02 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:02 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:02 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:02 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:02 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:02 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:02 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:02 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:02 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:02 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:02 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:02 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:02 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:02 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:02 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:06:02 +0530
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-13 00:07:19 +0530
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.4ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (13.1ms)
+Completed 200 OK in 24ms (Views: 22.5ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:07:19 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:19 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:19 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:19 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:19 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:19 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:19 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:19 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:19 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:19 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:19 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:19 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:19 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:19 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:19 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:19 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:19 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:19 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:19 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:19 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:19 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:19 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:19 +0530
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.4ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (36.7ms)
+Completed 200 OK in 47ms (Views: 45.7ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.3ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (10.6ms)
+Completed 200 OK in 20ms (Views: 19.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:20 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:21 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:21 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:21 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:21 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:21 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:21 +0530
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-13 00:07:21 +0530
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.4ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (10.7ms)
+Completed 200 OK in 21ms (Views: 19.5ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:07:21 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:21 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:21 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:21 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:21 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:21 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:21 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:21 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:21 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:21 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:21 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:21 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:21 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:21 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:21 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:21 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:21 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:21 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:21 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:21 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:21 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:21 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:21 +0530
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-13 00:07:22 +0530
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.3ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (9.7ms)
+Completed 200 OK in 19ms (Views: 18.4ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:07:22 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:22 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:22 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:22 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:22 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:22 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:22 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:22 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:22 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:22 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:22 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:22 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:22 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:22 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:22 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:22 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:22 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:22 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:22 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:22 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:22 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:22 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:22 +0530
+
+
+Started GET "/posts/34/edit" for 127.0.0.1 at 2013-09-13 00:07:24 +0530
+Processing by PostsController#edit as HTML
+  Parameters: {"id"=>"34"}
+  [1m[35mPost Load (0.3ms)[0m  SELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", "34"]]
+  Rendered posts/_form.html.erb (3.1ms)
+  Rendered posts/edit.html.erb within layouts/application (4.5ms)
+Completed 200 OK in 16ms (Views: 13.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-13 00:07:26 +0530
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.4ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (37.4ms)
+Completed 200 OK in 47ms (Views: 46.3ms | ActiveRecord: 0.4ms)
+
+
+Started DELETE "/posts/34" for 127.0.0.1 at 2013-09-13 00:07:29 +0530
+Processing by PostsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"V4nqQkiiZmH6W3PCu/JiIELXjJHsccQoj1dG8kg3Ysg=", "id"=>"34"}
+  [1m[35mPost Load (0.1ms)[0m  SELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", "34"]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (3.8ms)[0m  DELETE FROM "posts" WHERE "posts"."id" = ?  [["id", 34]]
+  [1m[36m (156.2ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/posts
+Completed 302 Found in 165ms (ActiveRecord: 160.2ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-13 00:07:29 +0530
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.3ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (8.8ms)
+Completed 200 OK in 19ms (Views: 17.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:07:29 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:29 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:29 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:29 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:29 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:29 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:29 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:29 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:29 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:29 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:29 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:29 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:29 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:29 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:29 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:29 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:29 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:29 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:29 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:29 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:29 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:29 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:29 +0530
+
+
+Started DELETE "/posts/40" for 127.0.0.1 at 2013-09-13 00:07:31 +0530
+Processing by PostsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"V4nqQkiiZmH6W3PCu/JiIELXjJHsccQoj1dG8kg3Ysg=", "id"=>"40"}
+  [1m[36mPost Load (0.2ms)[0m  [1mSELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1[0m  [["id", "40"]]
+  [1m[35m (0.4ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mDELETE FROM "posts" WHERE "posts"."id" = ?[0m  [["id", 40]]
+  [1m[35m (154.9ms)[0m  commit transaction
+Redirected to http://localhost:3000/posts
+Completed 302 Found in 160ms (ActiveRecord: 155.7ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-13 00:07:31 +0530
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.4ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (8.5ms)
+Completed 200 OK in 21ms (Views: 20.1ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:31 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:31 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:31 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:31 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:31 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:31 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:31 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:07:31 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:31 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:31 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:31 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:31 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:31 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:31 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:31 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:31 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:31 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:31 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:31 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:31 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:31 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:31 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:31 +0530
+
+
+Started DELETE "/posts/37" for 127.0.0.1 at 2013-09-13 00:07:33 +0530
+Processing by PostsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"V4nqQkiiZmH6W3PCu/JiIELXjJHsccQoj1dG8kg3Ysg=", "id"=>"37"}
+  [1m[35mPost Load (0.1ms)[0m  SELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", "37"]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.2ms)[0m  DELETE FROM "posts" WHERE "posts"."id" = ?  [["id", 37]]
+  [1m[36m (142.1ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/posts
+Completed 302 Found in 146ms (ActiveRecord: 142.5ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-13 00:07:33 +0530
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.3ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (8.2ms)
+Completed 200 OK in 44ms (Views: 43.3ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:07:33 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:33 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:33 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:33 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:33 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:33 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:33 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:33 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:33 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:33 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:33 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:33 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:33 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:33 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:33 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:33 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:33 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:33 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:34 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:34 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:34 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:34 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:34 +0530
+
+
+Started DELETE "/posts/36" for 127.0.0.1 at 2013-09-13 00:07:35 +0530
+Processing by PostsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"V4nqQkiiZmH6W3PCu/JiIELXjJHsccQoj1dG8kg3Ysg=", "id"=>"36"}
+  [1m[36mPost Load (0.2ms)[0m  [1mSELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1[0m  [["id", "36"]]
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mDELETE FROM "posts" WHERE "posts"."id" = ?[0m  [["id", 36]]
+  [1m[35m (155.7ms)[0m  commit transaction
+Redirected to http://localhost:3000/posts
+Completed 302 Found in 159ms (ActiveRecord: 156.2ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-13 00:07:35 +0530
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.3ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (7.2ms)
+Completed 200 OK in 17ms (Views: 16.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:07:35 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:35 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:35 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:35 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:35 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:35 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:35 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:35 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:35 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:35 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:36 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:36 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:36 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:36 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:36 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:36 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:36 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:36 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:36 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:36 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:36 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:36 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:36 +0530
+
+
+Started DELETE "/posts/21" for 127.0.0.1 at 2013-09-13 00:07:40 +0530
+Processing by PostsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"V4nqQkiiZmH6W3PCu/JiIELXjJHsccQoj1dG8kg3Ysg=", "id"=>"21"}
+  [1m[35mPost Load (0.1ms)[0m  SELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", "21"]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.2ms)[0m  DELETE FROM "posts" WHERE "posts"."id" = ?  [["id", 21]]
+  [1m[36m (147.5ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/posts
+Completed 302 Found in 150ms (ActiveRecord: 147.9ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-13 00:07:40 +0530
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.2ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 16ms (Views: 15.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:07:40 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:40 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:40 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:40 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:40 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:40 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:40 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:40 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:40 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:40 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:40 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:40 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:40 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:40 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:40 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:40 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:40 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:40 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:40 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:40 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:40 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:40 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:07:40 +0530
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-13 00:09:39 +0530
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.4ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (8.4ms)
+Completed 200 OK in 2092ms (Views: 2090.8ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/twitter/bootstrap.css?body=1" for 127.0.0.1 at 2013-09-13 00:09:41 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:09:41 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:09:41 +0530
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-09-13 00:09:41 +0530
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2013-09-13 00:09:41 +0530
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2013-09-13 00:09:41 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:09:41 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:09:41 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:09:42 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:09:42 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:09:42 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:09:42 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:09:42 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:09:42 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:09:42 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:09:42 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:09:42 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:09:42 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:09:42 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:09:42 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:09:42 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:09:42 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:09:42 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:09:42 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:09:42 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:09:42 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:09:42 +0530
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-13 00:11:01 +0530
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.3ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (10.1ms)
+Completed 200 OK in 22ms (Views: 21.4ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/twitter/bootstrap.css?body=1" for 127.0.0.1 at 2013-09-13 00:11:01 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:11:01 +0530
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-09-13 00:11:01 +0530
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2013-09-13 00:11:01 +0530
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2013-09-13 00:11:01 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:01 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:01 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:01 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:01 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:01 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:01 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:01 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:01 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:01 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:01 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:02 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:02 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:02 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:02 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:02 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:02 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:02 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:02 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:02 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:02 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:02 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:02 +0530
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-13 00:11:55 +0530
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.3ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (8.1ms)
+Completed 200 OK in 21ms (Views: 19.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/twitter/bootstrap.css?body=1" for 127.0.0.1 at 2013-09-13 00:11:55 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:11:55 +0530
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2013-09-13 00:11:55 +0530
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-09-13 00:11:55 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:55 +0530
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2013-09-13 00:11:55 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:55 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:55 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:55 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:55 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:55 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:55 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:55 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:55 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:55 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:55 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:55 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:55 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:55 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:55 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:55 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:55 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:55 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:55 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:55 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:55 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:11:55 +0530
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-13 00:16:17 +0530
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.4ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (7.8ms)
+Completed 500 Internal Server Error in 24ms
+
+ActionView::Template::Error (Invalid CSS after "text-align:": expected pseudoclass or pseudoelement, was " center;"
+  (in /home/shivaratna/First-rails-app/app/assets/stylesheets/welcome.css.scss:1)):
+    2: <html>
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/welcome.css.scss:1
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__502302989_77852060'
+
+
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.6ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (13.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-13 00:16:31 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.3ms)
+Completed 500 Internal Server Error in 18ms
+
+ActionView::Template::Error (Invalid CSS after "text-align:": expected pseudoclass or pseudoelement, was " center;"
+  (in /home/shivaratna/First-rails-app/app/assets/stylesheets/welcome.css.scss:1)):
+    2: <html>
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/welcome.css.scss:1
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__502302989_77852060'
+
+
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (12.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-13 00:17:06 +0530
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (2.4ms)
+Completed 500 Internal Server Error in 47ms
+
+ActionView::Template::Error (Invalid CSS after "text-align:": expected pseudoclass or pseudoelement, was " center;"
+  (in /home/shivaratna/First-rails-app/app/assets/stylesheets/welcome.css.scss:1)):
+    2: <html>
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/welcome.css.scss:1
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___506628371_86794070'
+
+
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (24.9ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (37.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-13 00:17:07 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.7ms)
+Completed 500 Internal Server Error in 22ms
+
+ActionView::Template::Error (Invalid CSS after "text-align:": expected pseudoclass or pseudoelement, was " center;"
+  (in /home/shivaratna/First-rails-app/app/assets/stylesheets/welcome.css.scss:1)):
+    2: <html>
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/welcome.css.scss:1
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___506628371_86794070'
+
+
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (12.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-13 00:17:26 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 207ms (Views: 205.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:17:26 +0530
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2013-09-13 00:17:26 +0530
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2013-09-13 00:17:26 +0530
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-09-13 00:17:26 +0530
+
+
+Started GET "/assets/twitter/bootstrap.css?body=1" for 127.0.0.1 at 2013-09-13 00:17:26 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:17:26 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:17:26 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:17:26 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:17:27 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:17:27 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:17:27 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:17:27 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:17:27 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:17:27 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:17:27 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:17:27 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:17:27 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:17:27 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:17:27 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:17:27 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:17:27 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:17:27 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:17:27 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:17:27 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:17:27 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:17:27 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:17:27 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-13 00:19:56 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 20ms
+
+ActionView::Template::Error (Invalid CSS after "text-align:": expected pseudoclass or pseudoelement, was " center;}"
+  (in /home/shivaratna/First-rails-app/app/assets/stylesheets/welcome.css.scss:2)):
+    2: <html>
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/welcome.css.scss:2
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___506628371_86794070'
+
+
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.6ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (13.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-13 00:19:57 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.8ms)
+Completed 500 Internal Server Error in 20ms
+
+ActionView::Template::Error (Invalid CSS after "text-align:": expected pseudoclass or pseudoelement, was " center;}"
+  (in /home/shivaratna/First-rails-app/app/assets/stylesheets/welcome.css.scss:2)):
+    2: <html>
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/welcome.css.scss:2
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___506628371_86794070'
+
+
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.6ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.3ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (12.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-13 00:20:12 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 42ms (Views: 41.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter/bootstrap.css?body=1" for 127.0.0.1 at 2013-09-13 00:20:12 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:20:12 +0530
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2013-09-13 00:20:12 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:20:12 +0530
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-09-13 00:20:12 +0530
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2013-09-13 00:20:12 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:20:12 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:20:12 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:20:12 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:20:12 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:20:12 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:20:12 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:20:12 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:20:12 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:20:12 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:20:12 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:20:12 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:20:12 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:20:12 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:20:12 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:20:12 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:20:12 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:20:12 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:20:12 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:20:12 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:20:12 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:20:12 +0530
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-13 00:20:18 +0530
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.3ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (24.5ms)
+Completed 200 OK in 41ms (Views: 35.5ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-13 00:21:26 +0530
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.3ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (9.1ms)
+Completed 200 OK in 74ms (Views: 72.9ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/twitter/bootstrap.css?body=1" for 127.0.0.1 at 2013-09-13 00:21:26 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:21:26 +0530
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2013-09-13 00:21:26 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:26 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:26 +0530
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2013-09-13 00:21:26 +0530
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-09-13 00:21:26 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:26 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:26 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:26 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:26 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:26 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:26 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:26 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:26 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:26 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:26 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:26 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:26 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:26 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:26 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:26 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:26 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:26 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:26 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:26 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:26 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-13 00:21:30 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 40ms (Views: 39.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter/bootstrap.css?body=1" for 127.0.0.1 at 2013-09-13 00:21:30 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:21:30 +0530
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2013-09-13 00:21:30 +0530
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-09-13 00:21:30 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:30 +0530
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2013-09-13 00:21:30 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:30 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:30 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:30 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:30 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:30 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:30 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:31 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:31 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:31 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:31 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:31 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:31 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:31 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:31 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:31 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:31 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:31 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:31 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:31 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:31 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:31 +0530
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-13 00:21:46 +0530
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.4ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (9.1ms)
+Completed 200 OK in 23ms (Views: 22.4ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:21:46 +0530
+
+
+Started GET "/assets/twitter/bootstrap.css?body=1" for 127.0.0.1 at 2013-09-13 00:21:46 +0530
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2013-09-13 00:21:46 +0530
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-09-13 00:21:46 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:46 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:46 +0530
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2013-09-13 00:21:46 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:46 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:47 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:47 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:47 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:47 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:47 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:47 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:47 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:47 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:47 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:47 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:47 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:47 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:47 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:47 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:47 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:47 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:47 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:47 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:47 +0530
+
+
+Started GET "/posts/new" for 127.0.0.1 at 2013-09-13 00:21:51 +0530
+Processing by PostsController#new as HTML
+  Rendered posts/_form.html.erb (13.9ms)
+  Rendered posts/new.html.erb within layouts/application (17.2ms)
+Completed 200 OK in 30ms (Views: 29.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-13 00:21:59 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 40ms (Views: 39.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter/bootstrap.css?body=1" for 127.0.0.1 at 2013-09-13 00:21:59 +0530
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2013-09-13 00:21:59 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:21:59 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:59 +0530
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-09-13 00:21:59 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:59 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:59 +0530
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2013-09-13 00:21:59 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:21:59 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:22:00 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:22:00 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:22:00 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:22:00 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:22:00 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:22:00 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:22:00 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:22:00 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:22:00 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:22:00 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:22:00 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:22:00 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:22:00 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:22:00 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:22:00 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:22:00 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:22:00 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:22:00 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-13 00:23:03 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 41ms (Views: 40.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter/bootstrap.css?body=1" for 127.0.0.1 at 2013-09-13 00:23:03 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:23:03 +0530
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2013-09-13 00:23:03 +0530
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-09-13 00:23:03 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:03 +0530
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2013-09-13 00:23:03 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:03 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:03 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:03 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:03 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:03 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:03 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:03 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:03 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:03 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:03 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:03 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:03 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:03 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:03 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:03 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:03 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:03 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:03 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:03 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:03 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:03 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-13 00:23:06 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 15ms (Views: 14.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter/bootstrap.css?body=1" for 127.0.0.1 at 2013-09-13 00:23:06 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:23:06 +0530
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2013-09-13 00:23:06 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:06 +0530
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2013-09-13 00:23:06 +0530
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-09-13 00:23:06 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:06 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:06 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:06 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:06 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:06 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:06 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:06 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:06 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:06 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:06 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:06 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:06 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:06 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:06 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:06 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:06 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:06 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:06 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:06 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:06 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:23:06 +0530
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-13 00:23:07 +0530
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.3ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 19ms (Views: 18.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-13 00:25:53 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 16ms (Views: 14.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter/bootstrap.css?body=1" for 127.0.0.1 at 2013-09-13 00:25:53 +0530
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2013-09-13 00:25:53 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:25:53 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:25:53 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:25:53 +0530
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2013-09-13 00:25:53 +0530
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-09-13 00:25:53 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:25:53 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:25:53 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:25:53 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:25:53 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:25:53 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:25:53 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:25:53 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:25:53 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:25:53 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:25:53 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:25:53 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:25:54 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:25:54 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:25:54 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:25:54 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:25:54 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:25:54 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:25:54 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:25:54 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:25:54 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-13 00:26:11 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 14ms (Views: 13.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter/bootstrap.css?body=1" for 127.0.0.1 at 2013-09-13 00:26:11 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:26:11 +0530
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2013-09-13 00:26:11 +0530
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2013-09-13 00:26:11 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:11 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:11 +0530
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-09-13 00:26:11 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:11 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:11 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:11 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:11 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:11 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:11 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:11 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:11 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:11 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:11 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:11 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:11 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:11 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:11 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:11 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:11 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:11 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:11 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:11 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:11 +0530
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-13 00:26:15 +0530
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.3ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (6.9ms)
+Completed 200 OK in 19ms (Views: 18.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-13 00:26:42 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 39ms (Views: 38.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter/bootstrap.css?body=1" for 127.0.0.1 at 2013-09-13 00:26:42 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:26:42 +0530
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-09-13 00:26:42 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:42 +0530
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2013-09-13 00:26:42 +0530
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2013-09-13 00:26:42 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:42 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:42 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:42 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:42 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:42 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:42 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:42 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:42 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:42 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:42 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:42 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:42 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:42 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:42 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:42 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:42 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:42 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:42 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:42 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:42 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:26:42 +0530
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-13 00:27:18 +0530
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.3ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 20ms (Views: 18.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-13 00:28:25 +0530
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.5ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (11.1ms)
+Completed 200 OK in 24ms (Views: 22.7ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/twitter/bootstrap.css?body=1" for 127.0.0.1 at 2013-09-13 00:28:25 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:28:25 +0530
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2013-09-13 00:28:25 +0530
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2013-09-13 00:28:25 +0530
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-09-13 00:28:25 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:28:25 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:28:25 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:28:25 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:28:25 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:28:25 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:28:25 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:28:25 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:28:25 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:28:25 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:28:25 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:28:25 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:28:25 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:28:25 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:28:25 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:28:25 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:28:25 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:28:25 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:28:25 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:28:25 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:28:25 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:28:25 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:28:25 +0530
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-13 00:29:37 +0530
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.3ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (8.2ms)
+Completed 200 OK in 24ms (Views: 22.4ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/twitter/bootstrap.css?body=1" for 127.0.0.1 at 2013-09-13 00:29:37 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:29:37 +0530
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2013-09-13 00:29:37 +0530
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2013-09-13 00:29:37 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:37 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:37 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:37 +0530
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-09-13 00:29:37 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:37 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:37 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:37 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:37 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:37 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:37 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:37 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:37 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:37 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:37 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:37 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:37 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:37 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:37 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:37 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:37 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:37 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:37 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:37 +0530
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-13 00:29:58 +0530
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.3ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (9.2ms)
+Completed 200 OK in 22ms (Views: 21.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/twitter/bootstrap.css?body=1" for 127.0.0.1 at 2013-09-13 00:29:58 +0530
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2013-09-13 00:29:58 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:29:58 +0530
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2013-09-13 00:29:58 +0530
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-09-13 00:29:58 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:58 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:58 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:58 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:58 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:58 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:58 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:58 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:58 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:58 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:58 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:58 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:58 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:58 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:59 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:59 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:59 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:59 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:59 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:59 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:59 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:59 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:29:59 +0530
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-13 00:30:15 +0530
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.4ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (10.1ms)
+Completed 200 OK in 49ms (Views: 47.7ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/twitter/bootstrap.css?body=1" for 127.0.0.1 at 2013-09-13 00:30:15 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:30:15 +0530
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-09-13 00:30:15 +0530
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2013-09-13 00:30:15 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:30:15 +0530
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2013-09-13 00:30:15 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:30:15 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:30:15 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:30:15 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:30:15 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:30:16 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:30:16 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:30:16 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:30:16 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:30:16 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:30:16 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:30:16 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:30:16 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:30:16 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:30:16 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:30:16 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:30:16 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:30:16 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:30:16 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:30:16 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:30:16 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:30:16 +0530
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-13 00:31:39 +0530
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.4ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (10.3ms)
+Completed 200 OK in 25ms (Views: 23.9ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/twitter/bootstrap.css?body=1" for 127.0.0.1 at 2013-09-13 00:31:39 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:31:39 +0530
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2013-09-13 00:31:39 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:31:39 +0530
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-09-13 00:31:39 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:31:39 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:31:39 +0530
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2013-09-13 00:31:39 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:31:39 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:31:39 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:31:39 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:31:39 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:31:39 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:31:39 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:31:39 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:31:39 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:31:39 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:31:39 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:31:39 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:31:39 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:31:39 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:31:39 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:31:39 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:31:39 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:31:39 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:31:39 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:31:39 +0530
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-13 00:31:59 +0530
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.4ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (9.9ms)
+Completed 200 OK in 26ms (Views: 24.6ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:32:00 +0530
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2013-09-13 00:32:00 +0530
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2013-09-13 00:32:00 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:00 +0530
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-09-13 00:32:00 +0530
+
+
+Started GET "/assets/twitter/bootstrap.css?body=1" for 127.0.0.1 at 2013-09-13 00:32:00 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:00 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:00 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:00 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:00 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:00 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:00 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:00 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:00 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:00 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:00 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:00 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:00 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:00 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:00 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:00 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:00 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:00 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:00 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:00 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:00 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:00 +0530
+
+
+Started GET "/posts/new" for 127.0.0.1 at 2013-09-13 00:32:14 +0530
+Processing by PostsController#new as HTML
+  Rendered posts/_form.html.erb (2.8ms)
+  Rendered posts/new.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 16ms (Views: 15.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/s" for 127.0.0.1 at 2013-09-13 00:32:24 +0530
+
+ActionController::RoutingError (No route matches [GET] "/s"):
+  actionpack (4.0.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.0) lib/rails/rack/logger.rb:21:in `block in call'
+  activesupport (4.0.0) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.0) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.0) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.0) lib/rails/rack/logger.rb:21:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.0) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  railties (4.0.0) lib/rails/engine.rb:511:in `call'
+  railties (4.0.0) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /home/shivaratna/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /home/shivaratna/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /home/shivaratna/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (2.5ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (15.4ms)
+  Rendered /home/shivaratna/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (141.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-13 00:32:28 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 16ms (Views: 15.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter/bootstrap.css?body=1" for 127.0.0.1 at 2013-09-13 00:32:28 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:32:28 +0530
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2013-09-13 00:32:28 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:28 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:28 +0530
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2013-09-13 00:32:28 +0530
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-09-13 00:32:28 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:28 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:28 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:28 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:28 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:28 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:28 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:28 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:28 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:28 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:28 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:28 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:28 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:28 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:28 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:28 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:28 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:28 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:28 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:28 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:28 +0530
+
+
+Started GET "/posts" for 127.0.0.1 at 2013-09-13 00:32:31 +0530
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.4ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (9.8ms)
+Completed 200 OK in 22ms (Views: 20.8ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-13 00:32:43 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 15ms (Views: 14.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter/bootstrap.css?body=1" for 127.0.0.1 at 2013-09-13 00:32:43 +0530
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2013-09-13 00:32:43 +0530
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:43 +0530
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-09-13 00:32:43 +0530
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2013-09-13 00:32:43 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-13 00:32:43 +0530
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:43 +0530
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:43 +0530
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:43 +0530
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:43 +0530
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:43 +0530
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:43 +0530
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:43 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:43 +0530
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:43 +0530
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:43 +0530
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:43 +0530
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:43 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:43 +0530
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:43 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:43 +0530
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:43 +0530
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:43 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:43 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:43 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:43 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-13 00:32:43 +0530
